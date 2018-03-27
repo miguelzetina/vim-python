@@ -174,3 +174,5 @@ au BufNewFile,BufRead *.js,*.html,*.css
     \ set softtabstop=2 |
     \ set shiftwidth=2
 
+Bundle "tpope-vim-sensible"
+Bundle "Zuckonit/vim-airline-tomato"
